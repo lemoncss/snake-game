@@ -1,0 +1,8 @@
+# 编辑器/系统
+.DS_Store
+Thumbs.db
+.vscode/
+
+# 依赖与临时产物（贪吃蛇纯前端可能用不到，按需保留）
+node_modules/
+*.log
